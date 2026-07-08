@@ -2,22 +2,22 @@
 
 Um projeto simples de **slider de cards responsivo** usando HTML e CSS.
 
-## ✨ Sobre
+## Sobre
 
 Este projeto demonstra como criar um **card slider moderno**, ideal para exibir conteúdos como produtos, perfis ou posts.
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - HTML
 - CSS
 
-## 🎯 Funcionalidades
+## Funcionalidades
 
 - Slider de cards
 - Layout responsivo
 - Design moderno e organizado
 
-## 🚀 Como usar
+## Como usar
 
 1. Baixe ou clone o repositório  
 2. Abra o arquivo `index.html` no navegador  
